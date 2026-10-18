@@ -1,0 +1,33 @@
+{
+  "originHash" : "4349630bb3af2462ab69a9a3fded1189355d631f1ee784203564087815120f45",
+  "pins" : [
+    {
+      "identity" : "rrulekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kubens/RRuleKit",
+      "state" : {
+        "revision" : "6ab783a022c09021cf307ebaeb588386a8bd07e3",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/swift",
+      "state" : {
+        "revision" : "6c09dd57c2254b14bb48c15e209ed6e93058104f",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
+        "version" : "1.8.2"
+      }
+    }
+  ],
+  "version" : 3
+}
